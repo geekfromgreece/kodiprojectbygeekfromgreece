@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.geekfromgreece"
        name="Kodi Project (by geekfromgreece)"
-       version="1.0.0"
+       version="1.0.1"
        provider-name="geekfromgreece">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -11,7 +11,6 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Kodi Project by geekfromgreece</summary>
-        <description>Greek and Russian TV project</description>
         <platform>all</platform>
     </extension>
 </addon>
