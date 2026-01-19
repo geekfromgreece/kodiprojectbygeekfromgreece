@@ -1,0 +1,82 @@
+#EXTM3U
+# Kodi Project (by geekfromgreece) - Greek TV (ALL CHANNELS)
+
+# === PUBLIC / FREE CHANNELS ===
+#EXTINF:-1 group-title="Greece | Public",ERT1
+https://ertflix-live.akamaized.net/hls/live/2022258/ert1/default/index.m3u8
+#EXTINF:-1 group-title="Greece | Public",ERT2
+https://ertflix-live.akamaized.net/hls/live/2022258/ert2/default/index.m3u8
+#EXTINF:-1 group-title="Greece | Public",ERT3
+https://ertflix-live.akamaized.net/hls/live/2022258/ert3/default/index.m3u8
+#EXTINF:-1 group-title="Greece | Public",ERT NEWS
+https://ertflix-live.akamaized.net/hls/live/2022258/ertnews/default/index.m3u8
+#EXTINF:-1 group-title="Greece | Public",ERT World
+https://ertflix-live.akamaized.net/hls/live/2022258/ertworld/default/index.m3u8
+#EXTINF:-1 group-title="Greece | Public",Vouli TV
+https://parltv.live.grnet.gr/webtv/live/stream.m3u8
+
+# === PRIVATE / REGIONAL CHANNELS (ADD YOUR OWN LEGAL STREAM URL) ===
+#EXTINF:-1 group-title="Greece | All",ANT1
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",ALPHA
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",MEGA
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",STAR Channel
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",SKAI
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",OPEN
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Makedonia TV
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Action 24
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Attica TV
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Kontra Channel
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",RISE TV
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Blue Sky
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Tilemax
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",4E
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Alert TV
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Achaia TV
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Aeolos TV
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Acheloos TV
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Epirus TV1
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Kriti TV
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",CRETA TV
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Dion TV
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Thrakinet TV
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Start TV Kozani
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Lefkada TV
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Ionian TV
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Mesogeios TV
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Smile TV
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",Syros TV1
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",TV100 Thessaloniki
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",STAR Kentrikis Ellados
+REPLACE_WITH_YOUR_STREAM_URL
+#EXTINF:-1 group-title="Greece | All",ENA Kentrikis Ellados
+REPLACE_WITH_YOUR_STREAM_URL
