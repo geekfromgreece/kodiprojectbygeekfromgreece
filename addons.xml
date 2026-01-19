@@ -6,9 +6,9 @@
   </requires>
   <extension point="xbmc.addon.repository" name="GeekFromGreece Repository">
     <!--  -->
-    <info compressed="false">https://raw.githubusercontent.com/geekfromgreece/tv-project-by-geekfromgreece/main/addons.xml</info>
-    <checksum>https://raw.githubusercontent.com/geekfromgreece/tv-project-by-geekfromgreece/main/addons.xml.md5</checksum>
-    <datadir zip="true">https://raw.githubusercontent.com/geekfromgreece/tv-project-by-geekfromgreece/main/zips/</datadir>
+    <info compressed="false">https://raw.githubusercontent.com/geekfromgreece/kodiprojectbygeekfromgreece/main/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/geekfromgreece/kodiprojectbygeekfromgreece/main/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/geekfromgreece/kodiprojectbygeekfromgreece/main/zips/</datadir>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>GeekFromGreece Kodi repository</summary>

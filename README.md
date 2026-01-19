@@ -1,4 +1,4 @@
-# tv-project-by-geekfromgreece
+# kodiprojectbygeekfromgreece
 
 This repository contains:
 - **GeekFromGreece Repo** (`repository.geekfromgreece`)
@@ -9,4 +9,4 @@ This repository contains:
 2. Install from repository → **GeekFromGreece Repo**
 3. Video add-ons → **GeekFromGreece Live TV** → Install
 
-> Note: The repository URLs inside `repository.geekfromgreece/addon.xml` must be updated after you upload to GitHub.
+> Note: Repository URLs are already set for `geekfromgreece/kodiprojectbygeekfromgreece` (main branch).
