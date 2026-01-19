@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.geekfromgreece" name="GeekFromGreece Live TV" version="1.0.0" provider-name="geekfromgreece">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="main.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Greek & Russian Live TV (curated)</summary>
-    <description>GeekFromGreece Live TV add-on skeleton (Greek / Russian categories).</description>
-    <platform>all</platform>
-    <assets>
-      <icon>icon.png</icon>
-    </assets>
-  </extension>
+<addon id="plugin.video.geekfromgreece"
+       name="Kodi Project (by geekfromgreece)"
+       version="1.0.0"
+       provider-name="geekfromgreece">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Kodi Project by geekfromgreece</summary>
+        <description>Greek and Russian TV project</description>
+        <platform>all</platform>
+    </extension>
 </addon>
