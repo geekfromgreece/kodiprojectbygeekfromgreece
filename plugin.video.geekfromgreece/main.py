@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
-import sys, urllib.parse
-import xbmcgui, xbmcplugin, xbmcaddon
+import sys
+import urllib.parse
+import xbmcgui
+import xbmcplugin
+import xbmcaddon
 
 ADDON = xbmcaddon.Addon()
 ADDON_PATH = ADDON.getAddonInfo("path")
@@ -19,11 +22,11 @@ def add_dir(label, q):
     li.setProperty("Fanart_Image", FANART)
     xbmcplugin.addDirectoryItem(HANDLE, url, li, True)
 
-def main_menu():
+def root_menu():
     xbmcplugin.setPluginFanart(HANDLE, FANART)
     add_dir("1. Greek TV", {"mode": "gr"})
     add_dir("2. Russian TV", {"mode": "ru"})
     xbmcplugin.endOfDirectory(HANDLE)
 
 if __name__ == "__main__":
-    main_menu()
+    root_menu()
