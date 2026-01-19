@@ -6,7 +6,7 @@ ADDON = xbmcaddon.Addon()
 ADDON_PATH = ADDON.getAddonInfo("path")
 HANDLE = int(sys.argv[1])
 
-FANART = f"{ADDON_PATH}/fanart.jpg"
+FANART = f"{ADDON_PATH}/fanart.png"
 ICON = f"{ADDON_PATH}/icon.png"
 
 def build_url(q):
