@@ -11,7 +11,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Kodi Project by geekfromgreece</summary>
-        <description>Greek and Russian TV menu (structure) by geekfromgreece.</description>
+        <description>Greek &amp; Russian TV hub. Add your own legal stream URLs per channel.</description>
         <platform>all</platform>
     </extension>
 </addon>
